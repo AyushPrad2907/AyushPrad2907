@@ -87,11 +87,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushPrad2907&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayushprad2907.Ayushprad2907&"  />
-</div>
+
 
 ###
 
