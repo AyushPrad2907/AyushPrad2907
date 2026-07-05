@@ -57,13 +57,6 @@
 
 ###
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=AyushPrad2907)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies" />
-</div>
-
-###
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
