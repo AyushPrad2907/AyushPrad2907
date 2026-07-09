@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A passionate Full-Stack Developer and AI/ML Enthusiast crafting intelligent, visually engaging, and impactful web experiences with OpenCV & modern frameworks.</h4>
+<h4 align="center">A passionate Full-Stack Developer and Intelligent System Developer crafting intelligent and smart , visually engaging, and impactful web experiences with OpenCV & modern frameworks as well as Gen AI stuffs.</h4>
 
 ###
 
